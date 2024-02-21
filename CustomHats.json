@@ -3944,7 +3944,7 @@
         },
          {
             "author": "Sou",
-            "climbresource": "Godot_climb.png",
+            "climbresource": "Godot.png",
             "condition": "None",
             "name": "Godot",
             "package": "Community Hats",
