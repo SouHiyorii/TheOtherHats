@@ -3923,26 +3923,6 @@
             "resource": "Galaxie.png"
         },
          {
-            "author": "Sou",
-            "climbresource": "Sou_climb.png",
-            "condition": "None",
-            "name": "Sou",
-            "package": "Community Hats",
-            "reshasha": "2bc18f6e2fb754253a75e0ce0b34047f",
-            "reshashc": "fdb1d4b99ee01cf6d8620f14b1bfad58",
-            "resource": "Sou.png"
-        },
-         {
-            "author": "Sou",
-            "climbresource": "Layton_climb.png",
-            "condition": "None",
-            "name": "Layton",
-            "package": "Community Hats",
-            "reshasha": "2bc186e2fb754253a75e0ce0b34047f",
-            "reshashc": "fdb1d4b99ee01cf6d8620f14b1bfad58",
-            "resource": "Layton.png"f
-        },
-         {
             "author": "K3ndo",
             "climbresource": "Spartan_climb.png",
             "condition": "None",
