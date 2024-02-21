@@ -3923,6 +3923,16 @@
             "resource": "Galaxie.png"
         },
          {
+            "author": "Sou",
+            "climbresource": "Sou_climb.png",
+            "condition": "None",
+            "name": "Sou",
+            "package": "Community Hats",
+            "reshasha": "2bc18f6e2fb754253a75e0ce0b34047f",
+            "reshashc": "fdb1d4b99ee01cf6d8620f14b1bfad58",
+            "resource": "Sou.png"
+        },
+         {
             "author": "K3ndo",
             "climbresource": "Spartan_climb.png",
             "condition": "None",
@@ -3931,6 +3941,7 @@
             "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
             "resource": "Spartan.png"
+             
         },
     ]
 }
