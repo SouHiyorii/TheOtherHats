@@ -3962,8 +3962,7 @@
             "reshashc": "fdb1d4b99ee01cf6d8620f14b1bfad58",
             "resource": "Luke.png"
         },
-            "author": "Sou",
-            "climbresource": "Godot_climb.png",
+            "author": "Sou"
             "condition": "None",
             "name": "Godot",
             "package": "Community Hats",
