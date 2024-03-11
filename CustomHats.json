@@ -3973,7 +3973,6 @@
             "resource": "Luke.png"
          {
             "author": "Sou",
-            "climbresource": "Godot_climb.png",
             "condition": "None",
             "name": "Godot",
             "package": "TEJP",
