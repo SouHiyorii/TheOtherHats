@@ -4024,13 +4024,13 @@
         }, 
          {
             "author": "Sou",
-            "climbresource": "Cosmos_Climb.png",
+            "climbresource": "Space_Climb.png",
             "condition": "None",
             "name": "Gyaxa",
             "package": "TEJP",
             "reshasha": "911d852737795f59c6d0eaddfa39a540",
             "reshashc": "aae4af23b58d91de93c12048250e3126",
-            "resource": "Cosmos.png"
+            "resource": "Space.png"
         },
     ]
 }
