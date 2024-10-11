@@ -4022,14 +4022,14 @@
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
             "resource": "Supreme.png"
         }, 
-       {
+         {
             "author": "Sou",
             "climbresource": "Cosmos_climb.png",
             "condition": "None",
             "name": "Gyaxa",
             "package": "TEJP",
-            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
-            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "reshasha": "911d852737795f59c6d0eaddfa39a540",
+            "reshashc": "aae4af23b58d91de93c12048250e3126",
             "resource": "Cosmos.png"
         },
     ]
