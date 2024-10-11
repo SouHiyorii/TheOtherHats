@@ -3994,13 +3994,13 @@
         },
          {
             "author": "Sou",
-            "climbresource": "Leader_climb.png",
+            "climbresource": "Elea_climb.png",
             "condition": "None",
             "name": "Elea",
             "package": "TEJP",
             "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
-            "resource": "Leader.png"
+            "resource": "Elea.png"
         },
        {
             "author": "Sou",
@@ -4014,13 +4014,13 @@
         }, 
         {
             "author": "Sou",
-            "climbresource": "Leader_climb.png",
+            "climbresource": "Supreme_climb.png",
             "condition": "None",
             "name": "Supreme Leader",
             "package": "TEJP",
             "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
-            "resource": "Leader.png"
+            "resource": "Supreme.png"
         }, 
     ]
 }
